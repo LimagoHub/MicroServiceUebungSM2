@@ -32,7 +32,7 @@ class CreditApplicationController {
 	
 	@GetMapping("/")
 	public String index() {
-		return "index";// Demo f f f fg fg dfg 
+		return "index"; 
 	}
 	
 	@GetMapping("/CreditApplicationCreator")
