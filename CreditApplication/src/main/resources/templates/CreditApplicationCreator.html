@@ -35,7 +35,8 @@
 
 <div class= "container">
 
-	<form th:action="@{/SaveCreditApplication}"  th:object="${creditApplication}" method="post" style="color: #FFFFFF;">
+	<form th:action="@{/SaveCreditApplication}"
+		  th:object="${creditApplication}" method="post" style="color: #FFFFFF;">
 
 		<span th:text="*{creditApplicationId}" /><br>
 		<span th:text="*{applicationDate}" />

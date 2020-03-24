@@ -6,6 +6,8 @@ import org.springframework.cloud.stream.annotation.EnableBinding;
 
 import de.ing.creditapplication.events.CreditApplicationChannels;
 
+// https://github.com/LimagoHub/MicroServiceUebungSM2
+
 @SpringBootApplication
 @EnableBinding(CreditApplicationChannels.class)
 public class CreditApplicationDoof {
