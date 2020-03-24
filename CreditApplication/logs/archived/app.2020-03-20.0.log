@@ -1,0 +1,3 @@
+2020-03-20 11:09:10,273 INFO de.limago.zeiterfassung.ZeiterfassungApplication [restartedMain] Starting ZeiterfassungApplication on Sonne with PID 6712 (C:\Users\JoachimWagner\git\zeiterfassung\target\classes started by JoachimWagner in C:\Users\JoachimWagner\git\zeiterfassung)
+2020-03-20 11:09:10,279 INFO de.limago.zeiterfassung.ZeiterfassungApplication [restartedMain] The following profiles are active: production
+2020-03-20 11:09:17,871 INFO de.limago.zeiterfassung.ZeiterfassungApplication [restartedMain] Started ZeiterfassungApplication in 8.102 seconds (JVM running for 9.191)
